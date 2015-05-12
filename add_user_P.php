@@ -4,6 +4,7 @@
 <?php
 include ('DB_Connect.php');
 
+//อ้างอิงจาก id ของช่องรับข้อมูล
 $U_Name = $_POST['U_Name'];
 $Pass_U = $_POST['Pass_U'];
 $C_Pass = $_POST['C_Pass'];
